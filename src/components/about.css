@@ -1,0 +1,35 @@
+.aboutImg{
+    top: 0;
+    left: 0;
+    height: 550px;
+    width: 550px;
+    z-index: 1;
+    display: flex;
+    padding-top: 350px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+   
+}
+.about{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+.us{
+    width: 600px;
+    text-align: left;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 250px;
+    color:  #844636;
+}
+h2{
+    font-size: 35px;
+
+}
+p{
+    font-weight: 700;
+    font-size: 20px;
+    
+}

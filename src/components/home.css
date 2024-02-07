@@ -1,0 +1,32 @@
+.homm{
+    text-align: left;
+    color: white;
+    margin-left: 55%;
+    margin-top: 12%;
+    margin-right: 30px;
+    font-size: 30px;
+    
+}
+p{
+    font-weight: 600;
+    
+}
+h2{
+    font-style: italic;
+}
+button{
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+    margin-top: 30px;
+}
+button:hover{
+    border-radius: 2px;
+    background: #844636c7;
+    border: .5px solid white;
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 0.5 ease;
+}

@@ -1,0 +1,42 @@
+
+h3{
+     font-size: 40px;
+     background-color: #4D637B;
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+     text-align: center;
+     margin-bottom: -140px;
+     padding-top: 15px;
+     margin-left: 44%;
+
+    
+}
+.xmenu{
+    background-color: #4D637B;
+    height: 100vh;
+    
+}
+.menu{
+    color: white;
+}
+h4{
+    color: white;
+}
+.menuImg{
+    height: 300px;
+    width: 300px;
+    top: 0;
+}
+.lift{
+    
+margin-left: -250px;
+}
+h4{
+    font-size: 25px;
+    margin-top: 50px;
+}
+span{
+    font-weight: 600;
+    font-size: 30px;
+}
